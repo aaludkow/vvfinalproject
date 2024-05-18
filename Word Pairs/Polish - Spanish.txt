@@ -1,0 +1,17 @@
+kot	gato
+kawa	café
+pieniądze	dinero
+matka	madre
+dwa	dos
+woda	agua
+miasto	ciudad
+dzień	día
+kwiat	flor
+sklep	tienda
+trzy	tres
+drzwi	puerta
+ona	ella
+zespół	equipo
+okno	ventana
+sto	cien
+telefon	teléfono
